@@ -7,3 +7,6 @@ Cada botón muestra un número, pero en realidad mete otro distinto.
 Lo mismo pasa con las operaciones: los símbolos no coinciden con lo que hacen.
 
 A pesar de que visualmente se un lio, la calculadora evalúa las expresiones correctamente y permite encadenar varias operaciones seguidas.
+
+COJER EL ARCHIVO Y PEGARLO EN COMPONENTS Y LLAMAR DESDE MAIN
+
